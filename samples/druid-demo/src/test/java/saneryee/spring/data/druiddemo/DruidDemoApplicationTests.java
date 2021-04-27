@@ -1,10 +1,10 @@
-package saneryee.spring.data.purespringdatasourcedemo;
+package saneryee.spring.data.druiddemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PureSpringDatasourceDemoApplicationTests {
+class DruidDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
