@@ -39,6 +39,10 @@ Customized a filter to print logs before and after connection respectively.
   - JdbcTemplate.batchUpdate
   - NamedParameterJdbcTemplate.batchUpdate
 
+### Errorcode Demo
+- Custom Error code
+  - added custom error code in `sql-error-codes.xml`
+  - Copy H2 Error codes from spring-jdbc-5.3.8.jar/org.springframework.jdbc/support/sql-error-codes.xml
 
 ## Projects
 ### Spring Coffee
